@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class InputController : MonoBehaviour
 {
 	public static InputController instance;
@@ -75,4 +75,9 @@ public class InputController : MonoBehaviour
 
 
     #endregion
+
+	public void Restart()
+    {
+		SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
+    }
 }

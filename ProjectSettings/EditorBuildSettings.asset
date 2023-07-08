@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Talha/Scenes/Cube-WebGL.unity
-    guid: 35f0c63751af12e438a01a2836b7cb28
+    path: Assets/_Talha/Scenes/Webgl Cube task.unity
+    guid: 50572b32217fbd443b9b4cd87748ed96
   m_configObjects: {}
