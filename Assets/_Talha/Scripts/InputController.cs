@@ -46,13 +46,13 @@ public class InputController : MonoBehaviour
     {
 		if (Input.GetMouseButtonDown(0))
 		{
-			print("mouse down");
+			//print("mouse down");
 			prevPosition = Input.mousePosition; // used this to get first input when user presses mouse button
 		}
 
 		if (Input.GetMouseButton(0))
 		{
-			print("get mouse");
+			//print("get mouse");
 			Vector3 touchDelta = Input.mousePosition - prevPosition; // calculating swipe value
 			var positionDelta = touchDelta * controllSensitivity;
 			horizontal= positionDelta.x / Screen.width / 2f;
