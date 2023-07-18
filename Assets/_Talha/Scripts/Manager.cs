@@ -5,11 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using SWS;
-public enum GameState
-{
-    Start,
-    End
-}
+
 public class Manager : MonoBehaviour
 {
     public delegate void Action();

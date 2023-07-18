@@ -1,0 +1,22 @@
+Quick Setup
+
+Controls :
+W - Accelerate
+S - Decelerate
+A - Turn left / Shift Rider's Weight to the left
+D - Turn right / Shift Rider's Weight to the right
+R - Reset Bike
+Space - Rear Brake Lever
+
+To change the bike, we have added an Editor Script (v1.2.5) so you do not have to manually change to the handle system and Rear Mud Guard System.
+From the Menu Bar, Change Bike > Select Bike > Body1/2/3 > Switch Bike
+
+May take a few time to master the controls of the motorcycle (Applying brakes at sharp turns and avoiding the pavement at high speeds). As the motorcycle is simulated with real time physical values it is difficult for us to contain the toppling at high speeds but we are working towards a middle ground between arcade and simulated controller.
+
+If you have any queries, conserns, questions or suggestions, please send us an email at alternativemathsthinking@gmail.com. We try implementing all the suggestions we recieve. We have released 9 versions of this asset thus far because of the great customer feedback we have received.
+
+If you found this motorcycle simulation useful for your Game / Studies / Animations, please consider rating it as it motivates us to add more motorcycle models, wheel types, liveries, script enhancements, fix bugs and make the asset easier for developers to use. If you require engine sounds and active ragdolls you could upgrade this package to the Pro version.
+The price of this asset was set to a minimal amount only to cover our 3D modelling costs.
+
+
+Happy Riding!
